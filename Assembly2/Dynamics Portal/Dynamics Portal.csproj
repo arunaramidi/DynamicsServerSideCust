@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39A49AD8-3B76-4F59-A3E0-860CE52D6648}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dynamics_Portal</RootNamespace>
+    <AssemblyName>Dynamics Project</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="_solutions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web Files\bootstrap.css" />
+    <Content Include="Web Files\checkmark.png" />
+    <Content Include="Web Files\forumhero.jpg" />
+    <Content Include="Web Files\homehero.jpg" />
+    <Content Include="Web Files\homethumbnail1.jpg" />
+    <Content Include="Web Files\homethumbnail2.jpg" />
+    <Content Include="Web Files\homethumbnail3.jpg" />
+    <Content Include="Web Files\homethumbnail4.jpg" />
+    <Content Include="Web Files\layer_down.png" />
+    <Content Include="Web Files\layer_up.png" />
+    <Content Include="Web Files\searchhero.jpg" />
+    <Content Include="Web Files\theme.css" />
+    <Content Include="Web Templates\Ad.html" />
+    <Content Include="Web Templates\Breadcrumbs.html" />
+    <Content Include="Web Templates\Category - Home.html" />
+    <Content Include="Web Templates\Category - Most Popular Categories.html" />
+    <Content Include="Web Templates\Category - Related Categories.html" />
+    <Content Include="Web Templates\Category - Search Results.html" />
+    <Content Include="Web Templates\Category - Most Recent Categories.html" />
+    <Content Include="Web Templates\Category Details.html" />
+    <Content Include="Web Templates\Category Dropdown.html" />
+    <Content Include="Web Templates\Customer Service - Case.html" />
+    <Content Include="Web Templates\Customer Service - Create Case.html" />
+    <Content Include="Web Templates\Customer Service - Edit Case.html" />
+    <Content Include="Web Templates\Customer Service - My Portal.html" />
+    <Content Include="Web Templates\Customer Service - Support.html" />
+    <Content Include="Web Templates\Faceted Search - Facets Template.html" />
+    <Content Include="Web Templates\Faceted Search - Main Template.html" />
+    <Content Include="Web Templates\Faceted Search - Paging Template.html" />
+    <Content Include="Web Templates\Faceted Search - Results Template.html" />
+    <Content Include="Web Templates\Faceted Search - Sort Template.html" />
+    <Content Include="Web Templates\Footer.html" />
+    <Content Include="Web Templates\Forum - Most Popular Threads.html" />
+    <Content Include="Web Templates\Full Page without Child Links.html" />
+    <Content Include="Web Templates\Get Help.html" />
+    <Content Include="Web Templates\Header.html" />
+    <Content Include="Web Templates\Home - Popular Topics.html" />
+    <Content Include="Web Templates\Home.html" />
+    <Content Include="Web Templates\IPSS Chat Bot.html" />
+    <Content Include="Web Templates\Knowledge Management - Home.html" />
+    <Content Include="Web Templates\Knowledge Base Home.html" />
+    <Content Include="Web Templates\Knowledge Management - Most Popular Articles.html" />
+    <Content Include="Web Templates\Knowledge Management - Most Recent Articles.html" />
+    <Content Include="Web Templates\Knowledge Management - Search Results.html" />
+    <Content Include="Web Templates\Knowledge Management - Top Rated Articles.html" />
+    <Content Include="Web Templates\Languages Dropdown.html" />
+    <Content Include="Web Templates\Layout 1 Column.html" />
+    <Content Include="Web Templates\Layout 2 Column Wide Left.html" />
+    <Content Include="Web Templates\Layout 3 Column.html" />
+    <Content Include="Web Templates\Opportunity Details.html" />
+    <Content Include="Web Templates\Page Copy.html" />
+    <Content Include="Web Templates\Page Header.html" />
+    <Content Include="Web Templates\Page with Side Navigation %282 columns%29.html" />
+    <Content Include="Web Templates\Page with Side Navigation and Sidebar %283 columns%29.html" />
+    <Content Include="Web Templates\Partner Application.html" />
+    <Content Include="Web Templates\Partner Dashboard.html" />
+    <Content Include="Web Templates\Search.html" />
+    <Content Include="Web Templates\Sitemap Item.html" />
+    <Content Include="Web Templates\Sitemap.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,11 @@
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.IdentityModel.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Plugins.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Plugins.pdb
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\obj\Debug\Plugins.dll
+c:\users\suyog\documents\visual studio 2015\Projects\Assembly2\Assembly2\Assembly\obj\Debug\Plugins.pdb

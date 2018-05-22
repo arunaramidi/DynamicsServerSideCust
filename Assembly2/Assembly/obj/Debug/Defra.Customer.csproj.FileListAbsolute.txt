@@ -1,0 +1,12 @@
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Defra.Customer.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Defra.Customer.pdb
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\obj\Debug\Defra.Customer.csprojResolveAssemblyReference.cache
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\obj\Debug\Defra.Customer.dll
+C:\Users\suyog\Documents\Visual Studio 2015\Projects\Assembly2\Assembly2\Assembly\obj\Debug\Defra.Customer.pdb
